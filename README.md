@@ -13,7 +13,7 @@ Two shops can sign the same number of loan contracts today, yet one still has ro
 
 `BAU ≤ Attainable ≤ Ceiling` holds for every shop.
 
-> Competition project by team *Đường sắt Bắc – Nam*, continuing the storyline of [Round 2](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/ITB-Customer-Health-Engagement-Scoring). The internal dataset belongs to the organisers and is not included; the external data is.
+> Competition project by team *Đường sắt Bắc – Nam*, continuing the storyline of [Round 2](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/ITB-Round-2-Customer-Financial-Health-Engagement-Scoring). The internal dataset belongs to the organisers and is not included; the external data is.
 
 ## Key findings
 
