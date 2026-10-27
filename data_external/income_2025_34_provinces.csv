@@ -1,0 +1,35 @@
+province_std,region,income_total,income_wage,income_agri,income_nonagri,income_other
+Hà Nội,Đồng bằng sông Hồng,8374,5538,136,1888,812
+Bắc Ninh,Đồng bằng sông Hồng,6020,3501,381,1538,600
+Quảng Ninh,Đồng bằng sông Hồng,6917,4349,355,1484,729
+Hải Phòng,Đồng bằng sông Hồng,7139,4515,322,1455,847
+Hưng Yên,Đồng bằng sông Hồng,6551,3720,369,1495,967
+Ninh Bình,Đồng bằng sông Hồng,6572,3424,434,1866,847
+Cao Bằng,Trung du và miền núi phía Bắc,2690,1365,653,323,350
+Tuyên Quang,Trung du và miền núi phía Bắc,3306,1794,602,546,365
+Lào Cai,Trung du và miền núi phía Bắc,3844,1865,808,776,395
+Thái Nguyên,Trung du và miền núi phía Bắc,4939,2991,624,959,365
+Lạng Sơn,Trung du và miền núi phía Bắc,3581,1789,754,616,423
+Phú Thọ,Trung du và miền núi phía Bắc,5523,3333,503,1175,512
+Điện Biên,Trung du và miền núi phía Bắc,2583,1283,644,201,455
+Lai Châu,Trung du và miền núi phía Bắc,2920,1861,609,220,230
+Sơn La,Trung du và miền núi phía Bắc,3052,1243,1090,417,302
+Thanh Hóa,Bắc Trung Bộ,5430,2996,543,1237,653
+Nghệ An,Bắc Trung Bộ,4790,2557,433,1131,669
+Hà Tĩnh,Bắc Trung Bộ,4457,1840,620,934,1063
+Quảng Trị,Bắc Trung Bộ,4502,2274,560,897,771
+Huế,Bắc Trung Bộ,5697,2688,281,1230,1497
+Đà Nẵng,Duyên hải Nam Trung Bộ và Tây Nguyên,5596,3533,273,1239,551
+Quảng Ngãi,Duyên hải Nam Trung Bộ và Tây Nguyên,4427,2180,987,837,423
+Gia Lai,Duyên hải Nam Trung Bộ và Tây Nguyên,4538,2321,1215,723,278
+Khánh Hòa,Duyên hải Nam Trung Bộ và Tây Nguyên,5284,3241,481,1155,407
+Đắk Lắk,Duyên hải Nam Trung Bộ và Tây Nguyên,4421,1906,1527,678,309
+Lâm Đồng,Duyên hải Nam Trung Bộ và Tây Nguyên,5477,1978,2302,855,342
+Tây Ninh,Đông Nam Bộ,5413,3363,727,891,432
+Đồng Nai,Đông Nam Bộ,7174,4166,814,1527,668
+TP. Hồ Chí Minh,Đông Nam Bộ,8064,5648,110,1644,661
+Vĩnh Long,Đồng bằng sông Cửu Long,4904,2209,1002,1112,581
+Đồng Tháp,Đồng bằng sông Cửu Long,5585,2567,1194,1184,640
+An Giang,Đồng bằng sông Cửu Long,5096,2196,927,1195,778
+Cần Thơ,Đồng bằng sông Cửu Long,5472,2372,1002,1350,747
+Cà Mau,Đồng bằng sông Cửu Long,5382,1935,1562,1277,609

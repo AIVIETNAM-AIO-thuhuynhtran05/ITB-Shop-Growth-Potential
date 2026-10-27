@@ -1,0 +1,8 @@
+﻿nhom,quy_mo_thang,chi_so,hanh_dong,phu_trach,kpi
+Khách mới mua CD/TW lần đầu tại shop,28610.666666666668,"9.1% vay thêm CL/CC/CW trong 12 tháng, 95% vay ở nơi khác",Giới thiệu CL/CC ngay tại quầy và tạo lead gắn với shop; nhắc lại khi khách gần tất toán,SA / nhân viên đối tác + CRM,% khách mới có lead CL/CC trong 30 ngày; HĐ online ghi nhận cho shop
+Khách có lead CD (không RTDM),12529.0,51% ra HĐ ký trong 30 ngày,"Ưu tiên phân lead, gọi lại trong ngày; đây là nhóm chuyển đổi cao nhất",SA,Lead CD → HĐ; thời gian từ giao lead đến gọi
+Khách có lead TW (không RTDM),4164.333333333333,29% ra HĐ ký,Tăng tỷ trọng lead TW cho đại lý xe máy (TW Key Dealer) đang dưới P75 peer,Marketing + SA,Lead TW / shop TW
+Khách có lead CL (không RTDM),7033.666666666667,"13% ra HĐ ký; chỉ khoảng 1/4 ký đúng CL (44% ký thẻ, 22% BNPL)",Chào gói nhiều sản phẩm (CL + CC + BNPL) thay vì chỉ CL,Telesales / CRM,HĐ ký mọi sản phẩm / lead CL
+Khách có lead thẻ CC (không RTDM),11089.333333333334,12% ra HĐ ký,"Giữ ở kênh số (app, SMS); không dồn cho SA tại quầy",Kênh số,Chi phí / HĐ thẻ
+Khách bị từ chối tại shop,11039.666666666666,21% hồ sơ nộp tại shop,"Không nới duyệt; thử phương án trong chính sách (trả trước cao hơn, khoản vay nhỏ hơn, BNPL) cùng bộ phận rủi ro",Rủi ro + sản phẩm,% khách bị từ chối được chuyển sang phương án khác; FPD
+Khách huỷ (trước hoặc sau khi được duyệt),4192.333333333333,8% hồ sơ nộp tại shop,"Gọi lại trong 24 giờ, hỗ trợ hoàn tất giấy tờ; tìm nguyên nhân huỷ theo shop",SA / quản lý shop,Tỷ lệ huỷ theo shop

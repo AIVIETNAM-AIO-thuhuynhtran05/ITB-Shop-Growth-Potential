@@ -1,0 +1,8 @@
+﻿seg,khach,hanh_dong_R2,san_pham,kenh,ty_trong_khach_khop,vai_tro_tai_shop
+Stars,6214,Pre-approved top-up / cross-sell offer,BNPL,Telesales + app,0.38915330661322645,"Bán thêm / bán chéo ngay tại shop (khách khỏe, tương tác cao)"
+Growth,2217,"Right-sized offer with down payment, moderate limit",BNPL,Telesales + app,0.13884018036072143,"Nâng hạn mức, bán chéo CL"
+Sleeping Gems,2181,Re-activation: pre-approved offer with a time limit,CL,App push / SMS,0.13658567134268537,Kích hoạt lại: ưu đãi có thời hạn khi khách quay lại shop
+Cool Prospects,1966,"Low-cost nurture: content and app onboarding, no credit push",None,App / SMS,0.12312124248496994,Nuôi dưỡng qua kênh số
+Insufficient History,1308,"Starter limit: small BNPL / consumer-durable loan, limit steps up after each on-time instalment",BNPL,App push / SMS,0.08191382765531062,Khoản nhỏ đầu tiên (CD/BNPL) để xây lịch sử
+Stressed Seekers,1167,No new credit: financial counselling + on-time repayment reminders,None,App / SMS,0.07308366733466934,Chặn chào khoản mới (rủi ro cao)
+At-Risk Dormant,915,No marketing: early-warning monitoring,None,Monitoring only,0.05730210420841683,Không chào thêm; chỉ thu hồi / theo dõi
